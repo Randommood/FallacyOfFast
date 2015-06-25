@@ -3,9 +3,9 @@
 Accompanying repository for "The Fallacy of Fast" talk given at [Altitude 2015](https://www.fastly.com/altitude). Feel free to open any issues for questions and/or to say hi :)
 
 ## Talk Outline
-See the [image credits](credits.md), link to [slides-soon](), and [video-soon]().
+See the [image credits](credits.md), link to [slides](https://speakerdeck.com/randommood/the-fallacy-of-fast), and [video-soon]().
 The talk is about the things most people wrongly sacrifice when trying to iterate fast.
-It is broken down in 2 sections:
+The talk is broken down into 2 main sections:
 * Common mistakes
 * What matters
 
