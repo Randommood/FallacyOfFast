@@ -17,3 +17,9 @@ It is broken down in 2 sections:
 * [Camille Fournier - A People's history of microservices](https://vimeo.com/131377935)
 * [Danielle Sucher, Dan Frank, and Franklin Hu- Breaking Production for Fun and Profit: Running Game Days at Stripe](https://vimeo.com/131502993)
 * [Engineering for the Long Game velocity 2015 - Astrid Atkinson](http://velocityconf.com/devops-web-performance-2015/public/schedule/detail/42630) [Video](https://www.youtube.com/watch?v=p0jGmgIrf_M&list=PL055Epbe6d5Y86GSg3nhUH3o_v62FGpCI&index=5)
+* http://ithare.com/overused-code-reuse/
+* [Simple testing can prevent most critical failures](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
+* [Netflix Canary Testing](http://www.infoq.com/presentations/canary-analysis-deployment-pattern)
+* [How Google tests software](http://ptgmedia.pearsoncmg.com/images/9780321803023/samplepages/0321803027.pdf)
+* [Continuous Deployment @ Flickr](https://vimeo.com/24542044)
+* [Adam Jacob's ChefConf 2015 keynote](https://www.youtube.com/watch?v=_DEToXsgrPc) & https://github.com/chef/devops-kungfu
