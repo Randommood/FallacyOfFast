@@ -10,3 +10,12 @@
 * https://www.flickr.com/photos/dr_j0nes/165464898
 * https://www.flickr.com/photos/withchristophergraham/7168279905
 * http://media.npr.org/assets/img/2013/09/18/faceplant182way-739d76872e3b5a1c904dde952cbd3755699c8ae6-s40-c85.jpg
+
+* https://www.flickr.com/photos/ollygriffin/10336326994
+* https://www.flickr.com/photos/billyfischer/3572001838
+
+* https://www.flickr.com/photos/tamaraherself/9387651312
+*
+## Icons
+* https://thenounproject.com/search/?q=fast&i=61513
+* [Stopwatch by Ilsur Aptukov from the Noun Project](https://thenounproject.com/search/?q=fast&i=14262)

@@ -1,13 +1,17 @@
 # The Fallacy Of Fast
 
-Accompanying repository for "The Fallacy of Fast" talk given at [Altitude 2015](https://www.fastly.com/altitude). Feel free to open any issues for questions and/or to say hi :)
+Accompanying repository for "The Fallacy of Fast" given at [CraftConf 2016](https://craft-conf.com/2016). A shorter version of this talk was given at [Altitude 2015](https://www.fastly.com/altitude). Feel free to open any issues for questions and/or to say hi :)
+
+### Abstract
+We all want to move fast. We construct our systems in a rapidly-iterating and agile way. Ideally we design and build them to be efficient, robust, and have low latency. But sometimes in the search for speed we make mistakes that come back to haunt us.
+
+The talk is about the things most of us sacrifice when trying to iterate fast. Some of these are reasonable trade-offs — others can wreck your product. I hope you will walk away with a notion of what to pay attention to at various stages of software development, and how you can avoid common pitfalls.
+
+See the [image credits](credits.md) and link to [slides](https://speakerdeck.com/randommood/the-fallacy-of-fast).
+Altitude 2015 [video](https://www.youtube.com/watch?v=iIT18m6bHmw) Craft Conf 2016 video coming soon.
 
 ## Talk Outline
-See the [image credits](credits.md), link to [slides](https://speakerdeck.com/randommood/the-fallacy-of-fast), and [video](https://www.youtube.com/watch?v=iIT18m6bHmw).
-The talk is about the things most people wrongly sacrifice when trying to iterate fast.
-The talk is broken down into 2 main sections:
-* Common mistakes
-* What matters
+* Intro
 
 # References
 * http://googleonlinesecurity.blogspot.com/2011/08/fuzzing-at-scale.html
