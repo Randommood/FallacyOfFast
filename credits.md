@@ -10,6 +10,13 @@
 * https://www.flickr.com/photos/dr_j0nes/165464898
 * https://www.flickr.com/photos/withchristophergraham/7168279905
 * http://media.npr.org/assets/img/2013/09/18/faceplant182way-739d76872e3b5a1c904dde952cbd3755699c8ae6-s40-c85.jpg
+* https://www.flickr.com/photos/vacuumbrand/5680185499
+* https://www.flickr.com/photos/121070486@N06/16409228748
+* https://giphy.com/gifs/afv-funny-fail-3o85xz8c70Ba4W8TCg
+* https://www.flickr.com/photos/coldbacon/7058480271
+* https://www.flickr.com/photos/green_ghost/2735904100
+* https://www.flickr.com/photos/121070486@N06/16409228748/
+
 
 * https://www.flickr.com/photos/ollygriffin/10336326994
 * https://www.flickr.com/photos/billyfischer/3572001838

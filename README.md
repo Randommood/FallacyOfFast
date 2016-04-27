@@ -26,3 +26,10 @@ Altitude 2015 [video](https://www.youtube.com/watch?v=iIT18m6bHmw) Craft Conf 20
 * [How Google tests software](http://ptgmedia.pearsoncmg.com/images/9780321803023/samplepages/0321803027.pdf)
 * [Continuous Deployment @ Flickr](https://vimeo.com/24542044)
 * [Adam Jacob's ChefConf 2015 keynote](https://www.youtube.com/watch?v=_DEToXsgrPc) & https://github.com/chef/devops-kungfu
+* [Why Startup Short Cuts Can Be Dangerous](http://www.inc.com/magazine/201404/norm-brodsky/do-not-take-short-cuts-building-a-business.html)
+
+### On Agile
+* [HBR embracing agile](https://hbr.org/2016/05/embracing-agile)
+* [Angela Druckman](http://angeladruckman.com/)
+* [Agile is dead](https://www.linkedin.com/pulse/agile-dead-matthew-kern)
+* [Agile limits](https://www.linkedin.com/pulse/20140704132728-86002769-agile-limits)
