@@ -31,3 +31,6 @@ Altitude 2015 [video](https://www.youtube.com/watch?v=iIT18m6bHmw) Craft Conf 20
 * [Angela Druckman](http://angeladruckman.com/)
 * [Agile is dead](https://www.linkedin.com/pulse/agile-dead-matthew-kern)
 * [Agile limits](https://www.linkedin.com/pulse/20140704132728-86002769-agile-limits)
+
+
+Other talks I've given can be found at https://github.com/Randommood/Speaking

@@ -16,8 +16,6 @@
 * https://www.flickr.com/photos/coldbacon/7058480271
 * https://www.flickr.com/photos/green_ghost/2735904100
 * https://www.flickr.com/photos/121070486@N06/16409228748/
-
-
 * https://www.flickr.com/photos/ollygriffin/10336326994
 * https://www.flickr.com/photos/billyfischer/3572001838
 * https://www.flickr.com/photos/tamaraherself/9387651312
@@ -26,6 +24,6 @@
 * https://www.flickr.com/photos/108992704@N05/15232820820
 * https://www.flickr.com/photos/vinternoll8/9558876241
 * https://www.flickr.com/photos/ollygriffin/10336326994/
-
 * https://giphy.com/gifs/CsjpI6bhjptTO
 * http://i.giphy.com/VhifAy8izWff2.gif
+* https://thenounproject.com/search/?q=idea&i=13680
