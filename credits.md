@@ -24,6 +24,7 @@
 * https://www.flickr.com/photos/108992704@N05/15232820820
 * https://www.flickr.com/photos/vinternoll8/9558876241
 * https://www.flickr.com/photos/ollygriffin/10336326994/
+* https://www.flickr.com/photos/daiablo/7980562351
 * https://giphy.com/gifs/CsjpI6bhjptTO
 * http://i.giphy.com/VhifAy8izWff2.gif
 * https://thenounproject.com/search/?q=idea&i=13680
