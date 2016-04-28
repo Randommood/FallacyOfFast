@@ -20,9 +20,12 @@
 
 * https://www.flickr.com/photos/ollygriffin/10336326994
 * https://www.flickr.com/photos/billyfischer/3572001838
-
 * https://www.flickr.com/photos/tamaraherself/9387651312
-*
-## Icons
-* https://thenounproject.com/search/?q=fast&i=61513
-* [Stopwatch by Ilsur Aptukov from the Noun Project](https://thenounproject.com/search/?q=fast&i=14262)
+* https://www.flickr.com/photos/41554936@N05/7918174190
+* https://www.flickr.com/photos/robwilkerson/7644584428
+* https://www.flickr.com/photos/108992704@N05/15232820820
+* https://www.flickr.com/photos/vinternoll8/9558876241
+* https://www.flickr.com/photos/ollygriffin/10336326994/
+
+* https://giphy.com/gifs/CsjpI6bhjptTO
+* http://i.giphy.com/VhifAy8izWff2.gif
