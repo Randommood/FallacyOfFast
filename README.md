@@ -1,16 +1,19 @@
 # The Fallacy Of Fast
 
-Accompanying repository for "The Fallacy of Fast" given at [CraftConf 2016](https://craft-conf.com/2016). A shorter version of this talk was given at [Altitude 2015](https://www.fastly.com/altitude). Feel free to open any issues for questions and/or to say hi :)
+Accompanying repository for "The Fallacy of Fast". Feel free to open any issues for questions and/or to say hi :)
 
 ### Abstract
 We all want to move fast. We construct our systems in a rapidly-iterating and agile way. Ideally we design and build them to be efficient, robust, and have low latency. But sometimes in the search for speed we make mistakes that come back to haunt us.
 
 The talk is about the things most of us sacrifice when trying to iterate fast. Some of these are reasonable trade-offs — others can wreck your product. I hope you will walk away with a notion of what to pay attention to at various stages of software development, and how you can avoid common pitfalls.
 
-See the [image credits](credits.md) and link to [slides](https://speakerdeck.com/randommood/the-fallacy-of-fast).
-Altitude 2015 [video](https://www.youtube.com/watch?v=iIT18m6bHmw) Craft Conf 2016 video coming soon.
+### Versions of this talk
+* [Sydney Women Who Code 2016](#) - [slides]()
+* [CraftConf 2016](https://craft-conf.com/2016) - [video](#) & [slides](https://speakerdeck.com/randommood/the-fallacy-of-fast).
+* [Altitude 2015](https://www.fastly.com/altitude) - [video](https://www.youtube.com/watch?v=iIT18m6bHmw) & slides
 
 # References
+* See the [image credits](credits.md)
 * http://googleonlinesecurity.blogspot.com/2011/08/fuzzing-at-scale.html
 * https://github.com/dvyukov/go-fuzz
 * http://caitiem.com/2015/06/23/clients-are-jerks-aka-how-halo-4-dosed-the-services-at-launch-how-we-survived/
@@ -31,6 +34,5 @@ Altitude 2015 [video](https://www.youtube.com/watch?v=iIT18m6bHmw) Craft Conf 20
 * [Angela Druckman](http://angeladruckman.com/)
 * [Agile is dead](https://www.linkedin.com/pulse/agile-dead-matthew-kern)
 * [Agile limits](https://www.linkedin.com/pulse/20140704132728-86002769-agile-limits)
-
 
 Other talks I've given can be found at https://github.com/Randommood/Speaking
