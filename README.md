@@ -8,7 +8,7 @@ We all want to move fast. We construct our systems in a rapidly-iterating and ag
 The talk is about the things most of us sacrifice when trying to iterate fast. Some of these are reasonable trade-offs — others can wreck your product. I hope you will walk away with a notion of what to pay attention to at various stages of software development, and how you can avoid common pitfalls.
 
 ### Versions of this talk
-* [Sydney Women Who Code 2016](#) - [slides]()
+* [Sydney Women Who Code 2016](https://www.meetup.com/Women-Who-Code-Sydney/events/235746929) - [slides]()
 * [CraftConf 2016](https://craft-conf.com/2016) - [video](#) & [slides](https://speakerdeck.com/randommood/the-fallacy-of-fast).
 * [Altitude 2015](https://www.fastly.com/altitude) - [video](https://www.youtube.com/watch?v=iIT18m6bHmw) & slides
 
@@ -17,6 +17,7 @@ The talk is about the things most of us sacrifice when trying to iterate fast. S
 * http://googleonlinesecurity.blogspot.com/2011/08/fuzzing-at-scale.html
 * https://github.com/dvyukov/go-fuzz
 * http://caitiem.com/2015/06/23/clients-are-jerks-aka-how-halo-4-dosed-the-services-at-launch-how-we-survived/
+* [Caite McCaffrey's Runbook Template](https://github.com/CaitieM20/Monitorama2016/blob/master/Runbook.md)
 * [Camille Fournier - A People's history of microservices](https://vimeo.com/131377935)
 * [Danielle Sucher, Dan Frank, and Franklin Hu- Breaking Production for Fun and Profit: Running Game Days at Stripe](https://vimeo.com/131502993)
 * [Engineering for the Long Game velocity 2015 - Astrid Atkinson](http://velocityconf.com/devops-web-performance-2015/public/schedule/detail/42630) [Video](https://www.youtube.com/watch?v=p0jGmgIrf_M&list=PL055Epbe6d5Y86GSg3nhUH3o_v62FGpCI&index=5)
