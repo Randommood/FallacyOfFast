@@ -8,7 +8,7 @@ We all want to move fast. We construct our systems in a rapidly-iterating and ag
 The talk is about the things most of us sacrifice when trying to iterate fast. Some of these are reasonable trade-offs — others can wreck your product. I hope you will walk away with a notion of what to pay attention to at various stages of software development, and how you can avoid common pitfalls.
 
 ### Versions of this talk
-* [Sydney Women Who Code 2016](https://www.meetup.com/Women-Who-Code-Sydney/events/235746929) - [slides]()
+* [Sydney Women Who Code 2016](https://www.meetup.com/Women-Who-Code-Sydney/events/235746929) - [slides](https://speakerdeck.com/randommood/fallacy-of-fast-wwc)
 * [CraftConf 2016](https://craft-conf.com/2016) - [video](#) & [slides](https://speakerdeck.com/randommood/the-fallacy-of-fast).
 * [Altitude 2015](https://www.fastly.com/altitude) - [video](https://www.youtube.com/watch?v=iIT18m6bHmw) & slides
 
